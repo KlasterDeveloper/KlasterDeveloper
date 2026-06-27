@@ -5,7 +5,7 @@
 Me chamo Daniel Saraiva, tenho 23 anos e sou natural do Piaui. Concluí o ensino médio no UESJP, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESA. Sou apaixonado por tecnologia e compartilho meu conhecimento e humor através do meu canal no YouTube "[Chiba Yato](https://www.youtube.com/@chibayato)", onde posto sobre conhecimentos gerais e gemaplays interativas, e também através do Instagram, com o perfil chamado "[Daniel Saraiva](https://www.instagram.com/daniel.saraiva.info/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@chibyato">
+    <a href="https://www.youtube.com/@chibayato">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
